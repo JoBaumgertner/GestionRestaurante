@@ -1,0 +1,92 @@
+[
+  {
+    "idCliente": 1,
+    "telefono": "2233663121",
+    "nombre": "María González",
+    "id": 29329524
+  },
+  {
+    "idCliente": 2,
+    "telefono": "2237299844",
+    "nombre": "José Rodríguez",
+    "id": 25928641
+  },
+  {
+    "idCliente": 3,
+    "telefono": "2233893800",
+    "nombre": "Juan López",
+    "id": 44602435
+  },
+  {
+    "idCliente": 4,
+    "telefono": "2235276084",
+    "nombre": "Luis Pérez",
+    "id": 44903791
+  },
+  {
+    "idCliente": 5,
+    "telefono": "2234215758",
+    "nombre": "Carlos Martínez",
+    "id": 12401225
+  },
+  {
+    "idCliente": 6,
+    "telefono": "2234754443",
+    "nombre": "Ana García",
+    "id": 38628500
+  },
+  {
+    "idCliente": 7,
+    "telefono": "2234445033",
+    "nombre": "Pedro Sánchez",
+    "id": 25873901
+  },
+  {
+    "idCliente": 8,
+    "telefono": "2231838577",
+    "nombre": "Carmen Romero",
+    "id": 23792679
+  },
+  {
+    "idCliente": 9,
+    "telefono": "2235448091",
+    "nombre": "Ricardo Díaz",
+    "id": 5298573
+  },
+  {
+    "idCliente": 10,
+    "telefono": "2239808034",
+    "nombre": "Jorge Álvarez",
+    "id": 48264872
+  },
+  {
+    "idCliente": 11,
+    "telefono": "2237259052",
+    "nombre": "Marta Fernández",
+    "id": 47891847
+  },
+  {
+    "idCliente": 12,
+    "telefono": "2231189570",
+    "nombre": "Francisco Ruiz",
+    "id": 38641125
+  },
+  {
+    "idCliente": 13,
+    "telefono": "2231992510",
+    "nombre": "Lucía Gómez",
+    "id": 39709110
+  },
+  {
+    "idCliente": 14,
+    "telefono": "2239614438",
+    "nombre": "Antonio Castro",
+    "id": 34864598
+  },
+  {
+    "idCliente": 15,
+    "telefono": "2231293007",
+    "nombre": "Andrés Vargas",
+    "id": 27294763
+  }
+]

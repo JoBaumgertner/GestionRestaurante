@@ -1,0 +1,62 @@
+{
+  "1": {
+    "idEmpleado": 1,
+    "puesto": "Mesero",
+    "nombre": "Federico González",
+    "id": "29873645"
+  },
+  "2": {
+    "idEmpleado": 2,
+    "puesto": "Mesero",
+    "nombre": "Leonardo Rodríguez",
+    "id": "31728490"
+  },
+  "3": {
+    "idEmpleado": 3,
+    "puesto": "Mesero",
+    "nombre": "Julia López",
+    "id": "42739485"
+  },
+  "4": {
+    "idEmpleado": 4,
+    "puesto": "Mesero",
+    "nombre": "Natalia Pérez",
+    "id": "23194856"
+  },
+  "5": {
+    "idEmpleado": 5,
+    "puesto": "Mesero",
+    "nombre": "Hugo Martínez",
+    "id": "25039487"
+  },
+  "6": {
+    "idEmpleado": 6,
+    "puesto": "Mesero",
+    "nombre": "Camila García",
+    "id": "38291754"
+  },
+  "7": {
+    "idEmpleado": 7,
+    "puesto": "Mesero",
+    "nombre": "Emilio Díaz",
+    "id": "29475038"
+  },
+  "8": {
+    "idEmpleado": 8,
+    "puesto": "Mesero",
+    "nombre": "Verónica Álvarez",
+    "id": "47290381"
+  },
+  "9": {
+    "idEmpleado": 9,
+    "puesto": "Mesero",
+    "nombre": "Esteban Fernández",
+    "id": "30294857"
+  },
+  "10": {
+    "idEmpleado": 10,
+    "puesto": "Mesero",
+    "nombre": "Inés Ruiz",
+    "id": "43829175"
+  }
+}

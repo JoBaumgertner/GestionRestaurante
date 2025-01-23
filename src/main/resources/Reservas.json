@@ -1,0 +1,268 @@
+[
+  {
+    "fecha": "2024-07-05",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 1,
+          "telefono": "2233663121",
+          "nombre": "María González",
+          "id": 29329524
+        },
+        "cantPersonas": 2
+      }
+    ]
+  },
+  {
+    "fecha": "2024-09-24",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 2,
+          "telefono": "2237299844",
+          "nombre": "José Rodríguez",
+          "id": 25928641
+        },
+        "cantPersonas": 8
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-09",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 3,
+          "telefono": "2233893800",
+          "nombre": "Juan López",
+          "id": 44602435
+        },
+        "cantPersonas": 9
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-16",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 4,
+          "telefono": "2235276084",
+          "nombre": "Luis Pérez",
+          "id": 44903791
+        },
+        "cantPersonas": 10
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-19",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 5,
+          "telefono": "2234215758",
+          "nombre": "Carlos Martínez",
+          "id": 12401225
+        },
+        "cantPersonas": 4
+      }
+    ]
+  },
+  {
+    "fecha": "2024-09-26",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 6,
+          "telefono": "2234754443",
+          "nombre": "Ana García",
+          "id": 38628500
+        },
+        "cantPersonas": 9
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-29",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 7,
+          "telefono": "2234445033",
+          "nombre": "Pedro Sánchez",
+          "id": 25873901
+        },
+        "cantPersonas": 10
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-23",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 8,
+          "telefono": "2231838577",
+          "nombre": "Carmen Romero",
+          "id": 23792679
+        },
+        "cantPersonas": 10
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-03",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 9,
+          "telefono": "2235448091",
+          "nombre": "Ricardo Díaz",
+          "id": 5298573
+        },
+        "cantPersonas": 1
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-26",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 10,
+          "telefono": "2239808034",
+          "nombre": "Jorge Álvarez",
+          "id": 48264872
+        },
+        "cantPersonas": 9
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-15",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 11,
+          "telefono": "2237259052",
+          "nombre": "Marta Fernández",
+          "id": 47891847
+        },
+        "cantPersonas": 6
+      }
+    ]
+  },
+  {
+    "fecha": "2024-09-13",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 12,
+          "telefono": "2231189570",
+          "nombre": "Francisco Ruiz",
+          "id": 38641125
+        },
+        "cantPersonas": 8
+      }
+    ]
+  },
+  {
+    "fecha": "2024-09-06",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 13,
+          "telefono": "2231992510",
+          "nombre": "Lucía Gómez",
+          "id": 39709110
+        },
+        "cantPersonas": 7
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-16",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 14,
+          "telefono": "2239614438",
+          "nombre": "Antonio Castro",
+          "id": 34864598
+        },
+        "cantPersonas": 2
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-04",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 15,
+          "telefono": "2231293007",
+          "nombre": "Andrés Vargas",
+          "id": 27294763
+        },
+        "cantPersonas": 3
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-11",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 1,
+          "telefono": "2233663121",
+          "nombre": "Elena Molina",
+          "id": 29329524
+        },
+        "cantPersonas": 1
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-01",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 2,
+          "telefono": "2237299844",
+          "nombre": "Susana Ortiz",
+          "id": 25928641
+        },
+        "cantPersonas": 2
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-23",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 3,
+          "telefono": "2233893800",
+          "nombre": "Roberto Silva",
+          "id": 44602435
+        },
+        "cantPersonas": 6
+      }
+    ]
+  },
+  {
+    "fecha": "2024-09-03",
+    "mesasReservadas": [
+      {
+        "cliente": {
+          "idCliente": 4,
+          "telefono": "2235276084",
+          "nombre": "Miguel Medina",
+          "id": 44903791
+        },
+        "cantPersonas": 3
+      }
+    ]
+  }
+]
